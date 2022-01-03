@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vidya-12
 - 👀 I’m interested in ...Traveling
 - 🌱 I’m currently learning ...github
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...
 
 <!---
